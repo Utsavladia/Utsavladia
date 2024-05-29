@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### I'm UTSAV LADIA
+### Currently in Final year of B.Tech in CSE From IIIT Kurnool.
+
+### Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/utsav-ladia/)
+
 <!--
 **Utsavladia/Utsavladia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
