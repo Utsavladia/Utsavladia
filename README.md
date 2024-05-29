@@ -24,7 +24,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsavladiawork@gmail.com)
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/utsavladia/utsavladia/output/github-contribution-grid-snake-dark.svg)
 <!--
 ![Snake animation](https://github.com/Utsavladia/Utsavladia/blob/output/github-contribution-grid-snake.svg)
 
