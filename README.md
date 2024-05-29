@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### I'm UTSAV LADIA
-### Currently in Final year
-### B.Tech in CSE
-### From IIIT Kurnool.
+# I'm UTSAV LADIA
+# Currently in Final year
+# B.Tech in CSE
+# From IIIT Kurnool.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-ladia)
