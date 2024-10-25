@@ -1,4 +1,4 @@
-# Hello, I'm "<"Utsav Ladia"/>"
+# Hello, I'm Utsav Ladia
 
 
 ## 😎 About Me
