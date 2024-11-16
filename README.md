@@ -20,12 +20,13 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/utsav-ladia/">
-  <img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="50" height="50" />
+  <img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="50" height="50" style="margin-right: 10px;" />
 </a>
 
 <a href="mailto:utsavladiawork@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" height="50" />
 </a>
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/utsavladia/utsavladia/output/github-contribution-grid-snake-dark.svg)
