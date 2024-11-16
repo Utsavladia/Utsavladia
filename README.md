@@ -22,6 +22,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 <a href="https://www.linkedin.com/in/utsav-ladia/" style="margin-right: 100px;" >
   <img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="50" height="50" />
 </a>
+##
 
 <a href="mailto:utsavladiawork@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" height="50" />
