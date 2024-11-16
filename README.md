@@ -20,9 +20,11 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 ## 🌐 Connect with Me
 ### Linkedin
-<a href="https://www.linkedin.com/in/utsav-ladia/" style="margin-right: 100px;" >
+<a href="https://www.linkedin.com/in/utsav-ladia/" >
   <img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="50" height="50" />
 </a>
+
+
 ### Email
 
 <a href="mailto:utsavladiawork@gmail.com">
