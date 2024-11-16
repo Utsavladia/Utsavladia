@@ -20,7 +20,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-ladia/)
+[![LinkedIn](https://pngimg.com/d/linkedIn_PNG34.png)](https://www.linkedin.com/in/utsav-ladia/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsavladiawork@gmail.com)
 
