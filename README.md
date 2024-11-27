@@ -52,7 +52,6 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 
 ## My contributions are getting consumed
-
 ![Snake animation](https://raw.githubusercontent.com/utsavladia/utsavladia/output/github-contribution-grid-snake-dark.svg)
 <!--
 ![Snake animation](https://github.com/Utsavladia/Utsavladia/blob/output/github-contribution-grid-snake.svg)
@@ -65,18 +64,3 @@ I'm a passionate developer with a love for building innovative solutions and con
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 --->
-<!--
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
--->
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's create something amazing together! 🌟
