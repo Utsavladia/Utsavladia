@@ -52,6 +52,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 
 ## My contributions are getting consumed
+
 ![Snake animation](https://raw.githubusercontent.com/utsavladia/utsavladia/output/github-contribution-grid-snake-dark.svg)
 <!--
 ![Snake animation](https://github.com/Utsavladia/Utsavladia/blob/output/github-contribution-grid-snake.svg)
