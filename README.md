@@ -30,7 +30,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 </a>
 
 
-## GSSoC Badges
+## GSSoC Badges🥇
 <div style='display:flex; align-items:center; gap: 10px;' align='start'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
