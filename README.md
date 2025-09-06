@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 
-I'm a passionate developer with a love for building innovative solutions and contributing to open-source projects. With a strong background in [CSE], I enjoy working on projects that make a difference.
+I'm a passionate developer with a love for building innovative solutions and contributing to open-source projects. With a strong background in CSE, I enjoy working on projects that make a difference.
 
 
 
